@@ -11,3 +11,5 @@ tsconfig.json
 webpack.config.js 
 webpack.prod.js 
 index.html
+*.kra
+src/assets/slub

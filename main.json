@@ -56,6 +56,12 @@
          "id":7,
          "name":"exit_showroom",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"showroom.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":20,
