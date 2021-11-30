@@ -3,12 +3,5 @@ dist
 *~
 *.tiled-project
 *.tiled-session
-README.md 
-package-lock.json
-package.json
-tsconfig.json
-webpack.config.js 
-webpack.prod.js 
-index.html
 *.kra
 src/assets/slub
